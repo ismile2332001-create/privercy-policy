@@ -133,5 +133,3 @@ Continued use of the App means you accept the updated policy.
 If you have any questions about this Privacy Policy, contact us at:
 
 📧 support@caloai.app
-Privacypolicy.html.txt
-Displaying Privacypolicy.html.txt.
