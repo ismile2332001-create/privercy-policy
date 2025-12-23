@@ -1,21 +1,6 @@
 # privercy-policy
 This is the privercy policy
 Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-2 of 4
-privacy policy html
-Inbox
-
-ismile khan <ismile2332001@gmail.com>
-Attachments
-17:51 (42 minutes ago)
-to me
-
-
- One attachment
-  •  Scanned by Gmail
 Privacy Policy – Calo AI (Post Workout Meal)
 
 Last updated: 23 December 2025
