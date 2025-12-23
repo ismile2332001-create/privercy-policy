@@ -133,3 +133,65 @@ Continued use of the App means you accept the updated policy.
 If you have any questions about this Privacy Policy, contact us at:
 
 📧 support@caloai.app
+
+
+
+
+
+# Terms & Conditions – Calo AI
+
+Last updated: 23 December 2025
+
+Welcome to Calo AI – Post Workout Meal.
+By accessing or using this application (“App”), you agree to be bound by these Terms & Conditions. If you do not agree, please do not use the App.
+
+1. Use of the App
+
+Calo AI provides AI-generated post-workout meal suggestions and informational content only. The App is intended for personal, non-commercial use.
+
+2. No Medical or Professional Advice
+
+Calo AI does not provide medical, nutritional, or health advice.
+All meal suggestions and information are for general informational purposes only. Always consult a qualified professional before making dietary or fitness decisions.
+
+3. User Responsibilities
+
+By using the App, you agree that:
+
+You are responsible for how you use the information provided by the App
+
+You will not misuse the App or attempt to reverse-engineer or disrupt its functionality
+
+You are at least 13 years of age
+
+4. Subscriptions & Payments
+
+Calo AI may offer paid subscriptions for additional features. All payments are processed through the App Store or Google Play. Pricing, billing cycles, and available features may change at any time.
+
+Refunds and cancellations are handled according to the policies of the respective app marketplace.
+
+5. Intellectual Property
+
+All content, branding, designs, and features of Calo AI are owned by us or our licensors and are protected by applicable intellectual property laws.
+
+6. Third-Party Services
+
+The App may use third-party services for analytics, hosting, authentication, or payments. We are not responsible for the content, availability, or practices of these third-party services.
+
+7. Limitation of Liability
+
+Calo AI is provided “as is” without warranties of any kind. We are not liable for any direct or indirect damages resulting from the use of or inability to use the App.
+
+8. Termination
+
+We reserve the right to suspend or terminate access to the App at any time if these Terms are violated or if the App is misused.
+
+9. Changes to These Terms
+
+We may update these Terms & Conditions from time to time. Continued use of the App after changes are made constitutes acceptance of the updated Terms.
+
+10. Contact Information
+
+If you have any questions regarding these Terms & Conditions, you may contact us at:
+
+Email: support@caloai.app
