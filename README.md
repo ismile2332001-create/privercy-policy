@@ -1,6 +1,6 @@
 # privercy-policy
 This is the privercy policy
-Conversation opened. 1 read message.
+
 Privacy Policy – Calo AI (Post Workout Meal)
 
 Last updated: 23 December 2025
